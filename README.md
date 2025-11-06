@@ -1,2 +1,5 @@
-# jfxscada
-Supervisory Control and Data Acquisition
+# Supervisory Control and Data Acquisition
+
+Simulating Composites Manufacturing Processes
+
+
